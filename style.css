@@ -1,0 +1,31 @@
+body{
+    background-image: url(https://w7.pngwing.com/pngs/620/868/png-transparent-computer-background-computer-keyboard-science-and-technology.png);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+p{
+    color: red;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.highlight{
+    background-color: yellow;
+}
+.error{
+    background-color: lightcoral;
+    border:2px solid red;
+}
+#typed-value{
+    height: 30px;
+    width: 300px ;
+}
+#start{
+    height: 35px;
+    width: 80px ;
+
+}
